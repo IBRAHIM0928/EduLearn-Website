@@ -29,5 +29,5 @@ This project demonstrates clean design, semantic HTML structure, and responsive 
 
 ## 🚀 How to View
 You can visit the live site here once GitHub Pages is enabled:  
-👉 [https://your-username.github.io/EduLearn-Website](https://your-username.github.io/EduLearn-Website)
+👉 [https://your-username.github.io/EduLearn-Website](https://ibrahim0928.github.io/EduLearn-Website/)
 
